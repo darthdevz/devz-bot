@@ -1,1 +1,1 @@
-web: bundle exec ruby devzbot-all.rb
+web: bundle exec ruby devzbot.rb
